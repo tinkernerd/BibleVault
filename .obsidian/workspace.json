@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8d7659421aa78cde",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "59ff46e35dc00748",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -80,7 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 301
   },
   "right": {
     "id": "993c486477069ae0",
@@ -266,14 +266,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "59ff46e35dc00748",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "🏠 Homepage.md",
     "Notes/The Parable of the Lost Son.md",
     "README.md",
     "CONTIBUTING.md",
     "Notes/Verse Book.md",
     "Notes/Who Am I ?  Verses.md",
-    "🏠 Homepage.md",
     "Scripture/The Bible Books.md",
     "LICENSE.md",
     "The Bible.md",
