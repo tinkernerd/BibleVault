@@ -1,0 +1,33 @@
+{
+  "callouts": {
+    "custom": [],
+    "settings": {
+      "bible": [
+        {
+          "changes": {
+            "icon": "lucide-book-plus"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "light"
+          },
+          "changes": {}
+        },
+        {
+          "condition": {
+            "colorScheme": "dark"
+          },
+          "changes": {
+            "color": "0, 119, 255"
+          }
+        }
+      ]
+    }
+  },
+  "calloutDetection": {
+    "obsidian": true,
+    "theme": true,
+    "snippet": true
+  }
+}
