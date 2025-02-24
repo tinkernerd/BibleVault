@@ -24,7 +24,8 @@ Paul, called to be an apostle of Christ Jesus by the will of God, and our brothe
 To the church of God in Corinth, to those sanctified in Christ Jesus and called to be his holy people, together with all those everywhere who call on the name of our Lord Jesus Christ--their Lord and ours: 
 
 ###### 3 
-Grace and peace to you from God our Father and the Lord Jesus Christ. ## Thanksgiving 
+Grace and peace to you from God our Father and the Lord Jesus Christ. 
+## Thanksgiving 
 
 ###### 4 
 I always thank my God for you because of his grace given you in Christ Jesus. 
@@ -42,16 +43,17 @@ Therefore you do not lack any spiritual gift as you eagerly wait for our Lord Je
 He will also keep you firm to the end, so that you will be blameless on the day of our Lord Jesus Christ. 
 
 ###### 9 
-God is faithful, who has called you into fellowship with his Son, Jesus Christ our Lord. ## A Church Divided Over Leaders 
+God is faithful, who has called you into fellowship with his Son, Jesus Christ our Lord. 
+## A Church Divided Over Leaders 
 
 ###### 10 
-I appeal to you, brothers and sisters, in the name of our Lord Jesus Christ, that all of you agree with one another in what you say and that there be no divisions among you, but that you be perfectly united in mind and thought. 
+I appeal to you, brothers and sisters,[^1] in the name of our Lord Jesus Christ, that all of you agree with one another in what you say and that there be no divisions among you, but that you be perfectly united in mind and thought. 
 
 ###### 11 
 My brothers and sisters, some from Chloe's household have informed me that there are quarrels among you. 
 
 ###### 12 
-What I mean is this: One of you says, "I follow Paul"; another, "I follow Apollos"; another, "I follow Cephas"; still another, "I follow Christ." 
+What I mean is this: One of you says, "I follow Paul"; another, "I follow Apollos"; another, "I follow Cephas[^2]"; still another, "I follow Christ." 
 
 ###### 13 
 Is Christ divided? Was Paul crucified for you? Were you baptized in the name of Paul? 
@@ -68,11 +70,12 @@ so no one can say that you were baptized in my name.
 ###### 17 
 For Christ did not send me to baptize, but to preach the gospel--not with wisdom and eloquence, lest the cross of Christ be emptied of its power. ## Christ Crucified Is God's Power and Wisdom 
 
+## Christ Crucified Is God’s Power and Wisdom
 ###### 18 
 For the message of the cross is foolishness to those who are perishing, but to us who are being saved it is the power of God. 
 
 ###### 19 
-For it is written: "I will destroy the wisdom of the wise; the intelligence of the intelligent I will frustrate." 
+For it is written: "I will destroy the wisdom of the wise; the intelligence of the intelligent I will frustrate."[^3] 
 
 ###### 20 
 Where is the wise person? Where is the teacher of the law? Where is the philosopher of this age? Has not God made foolish the wisdom of the world? 
@@ -108,4 +111,12 @@ so that no one may boast before him.
 It is because of him that you are in Christ Jesus, who has become for us wisdom from God--that is, our righteousness, holiness and redemption. 
 
 ###### 31 
-Therefore, as it is written: "Let the one who boasts boast in the Lord." 
+Therefore, as it is written: "Let the one who boasts boast in the Lord."[^4]
+
+[^1]: The Greek word for _brothers and sisters_ (_adelphoi_) refers here to believers, both men and women, as part of God’s family; also in verses 11 and 26; and in 2:1; 3:1; 4:6; 6:8; 7:24, 29; 10:1; 11:33; 12:1; 14:6, 20, 26, 39; 15:1, 6, 50, 58; 16:15, 20.
+
+[^2]: That is, Peter
+
+[^3]: [[Isa 29#14|Isaiah 29:14]]
+
+[^4]: [[Jer 9#24|Jer. 9:24]]
