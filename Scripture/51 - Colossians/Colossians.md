@@ -12,7 +12,7 @@ book#: 51
 
 The book of **Colossians**, written by the Apostle Paul, addresses false teachings in the church and emphasizes the supremacy and sufficiency of Christ. Paul encourages believers to live godly lives rooted in the knowledge of Christ.
 ## Chapters
-### [[ Col 1 | Chapter 1 - The Supremacy of Christ]]
+### [[Col 1| Chapter 1 - The Supremacy of Christ]]
 - **Greeting and thanksgiving:** Paul expresses gratitude for the Colossians' faith, love, and hope in the gospel.
 - **The supremacy of Christ:** Jesus is described as the image of the invisible God, the Creator, and the head of the church.
 - **Reconciliation through Christ:** Paul highlights that believers are reconciled to God through Christ’s death on the cross.

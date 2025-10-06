@@ -2,14 +2,17 @@
 title: Colossians 1
 type: Scripture
 tags:
- - bible/verse
- - bible/book/Colossians
- - verse
+  - bible/verse
+  - bible/book/Colossians
+  - verse
 Chapter: Chapter01
 Book: Colossians
-Aliases: [Colossians 1]
-up: ['Colossians']
-next: ['Col 2']
+Aliases:
+  - Colossians 1
+up:
+  - Colossians
+next:
+  - Col 2
 category: Bible
 ---
 # Colossians 1
