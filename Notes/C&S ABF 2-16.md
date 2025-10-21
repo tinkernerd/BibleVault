@@ -10,6 +10,7 @@ tags:
   - bible/verse
   - bible/book/
 status: Active
+Study: YA Chapel
 ---
 
 [[1Cor 15#35|1 Corinthians 15 35-58]]

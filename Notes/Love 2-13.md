@@ -10,6 +10,7 @@ tags:
   - bible/verse
   - bible/book/
 status: Active
+Study: AKO
 ---
 ## Verses
 ![[1Cor 12#31|1 Corinthians 12:31]]

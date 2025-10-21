@@ -96,7 +96,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "🏠 Homepage.md",
+                "file": "Assets/Templates/Default Template.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -124,7 +124,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 🏠 Homepage"
+              "title": "Graph of Default Template"
             }
           },
           {
@@ -197,10 +197,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "🏠 Homepage.md"
+                "file": "Assets/Templates/Default Template.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 🏠 Homepage"
+              "title": "File properties for Default Template"
             }
           },
           {
@@ -267,9 +267,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "edc2ec343b41aae3",
   "lastOpenFiles": [
+    "Notes/Bayview - God's Blueprint - Week 2.md",
+    "Notes/Who Am I ?  Verses.md",
+    "Notes/Who Am I Verses.md",
     "🏠 Homepage.md",
+    "Notes/Bible Glossary.md",
+    "Notes/End of Chapter Questions - Killing Kryptonite.md",
     "Scripture/51 - Colossians/Col 1.md",
     "Notes/YA 9-26.md",
     "Notes/Col.md",
@@ -283,7 +288,6 @@
     "README.md",
     "CONTIBUTING.md",
     "Notes/Verse Book.md",
-    "Notes/Who Am I ?  Verses.md",
     "Scripture/The Bible Books.md",
     "LICENSE.md",
     "The Bible.md",
@@ -291,10 +295,6 @@
     "Assets/Templates/Insertion Template/Callout Template - Old.md",
     "Assets/Templates/Insertion Template/Youtube Data Template.md",
     "Assets/Templates/Category Templates/Bible Template.md",
-    "Assets/Templates/Daily Note Template.md",
-    "Assets/Templates/Goal Template.md",
-    "Assets/Templates/Category Templates/Aviation Template.md",
-    "Assets/Templates/Category Templates/Electrical Template.md",
     "Assets/Attachments/ac_90-66c.pdf",
     "Assets/Attachments/distance formula.png",
     "Assets/Attachments/FAA_Order_6850.2C.pdf",

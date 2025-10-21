@@ -3,13 +3,14 @@ title: C&S ABF 2-23
 created_at: 2025-02-23T09:45:36-05:00
 modified_at: 2025-02-23T09:53:19-05:00
 category: Bible
-type: Scripture
+type: Bible Study
 topic:
   - Scripture
 tags:
   - bible/verse
   - bible/book/
 status: Active
+Study: YA Chapel
 ---
 - [[1Chr 16|1 Chronicles 16]]
 - [1 Corinthians 15 Bible Commentary - Matthew Henry (concise)](https://www.christianity.com/bible/commentary/matthew-henry-concise/1-corinthians/15)

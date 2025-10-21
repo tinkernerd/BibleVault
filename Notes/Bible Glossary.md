@@ -1,6 +1,6 @@
 ---
 title: The Bible Glossary
-type: Resource
+type: Dashboard
 topic:
   - Reference
 category: Bible
