@@ -40,7 +40,7 @@ SORT title ASC
 ### Sermons
 ```dataview
 TABLE WITHOUT ID  
-link(file.path, title) AS "Note", type AS Type, created_at AS "Date Created"
+link(file.path, title) AS "Note", type AS Type, created_at AS "Date Created", study as Study
 FROM "Notes"
 WHERE contains(category, "Bible") AND type = "Sermon" 
 SORT title ASC
@@ -48,8 +48,16 @@ SORT title ASC
 ### Bible Study Notes
 ```dataview
 TABLE WITHOUT ID  
-link(file.path, title) AS "Note", type AS Type, created_at AS "Date Created"
+link(file.path, title) AS "Note", type AS Type, created_at AS "Date Created", study as Study
 FROM "Notes"
 WHERE contains(category, "Bible") AND type = "Bible Study" 
+SORT title ASC
+```
+### All Notes
+```dataview
+TABLE WITHOUT ID  
+link(file.path, title) AS "Note", type as Type, study as Study, status as "Where we at?"
+FROM "Notes"
+WHERE contains(category, "Bible") and type != "Dashboard"
 SORT title ASC
 ```
